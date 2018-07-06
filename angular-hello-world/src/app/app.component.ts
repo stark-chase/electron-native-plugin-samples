@@ -14,6 +14,6 @@ export class AppComponent implements OnInit {
         // Require the native module
         const greetingModule = require("../greeting-module");
         // Set the greeting message to the binding property
-        this.nativeModuleMessage = greetingModule.greeting();
+        this.nativeModuleMessage = greetingModule.greeting(); 
     }
 }
