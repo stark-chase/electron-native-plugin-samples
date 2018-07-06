@@ -1,0 +1,30 @@
+:host {
+  margin: 0;
+  padding: 0;
+
+  .head{
+    width: 100%;
+    margin-bottom: 40px;
+
+    img {
+      margin: auto;
+      display: block;
+      width: 25%;
+    }
+
+    h1{
+      text-align: center;
+      color: #DC1E34;
+    }
+
+    h2 {
+      text-align: center;
+      color: orange;
+    }
+  }
+
+  .container{
+    width: 100%;
+    padding-top: 15px;
+  }
+}

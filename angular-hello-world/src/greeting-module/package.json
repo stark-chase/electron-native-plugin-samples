@@ -1,0 +1,6 @@
+{
+    "name": "greeting",
+    "version": "1.0.0",
+    "gypFile": true,
+    "main": "index.js"
+}

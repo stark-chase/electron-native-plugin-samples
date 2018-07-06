@@ -1,0 +1,26 @@
+# compiled output
+dist/*
+electron.js
+
+# dependencies
+node_modules/*
+
+# ide
+.idea/*
+
+# mac packager/installer
+mac_packager/*
+mac_installer/*
+electron-angular.dmg
+appdmg.json
+
+# windows packager/installer
+win_packager/*
+win_installer/*
+
+# linux packager/installer
+linux_packager/*
+linux_installer/*
+
+# miscellaneous
+npm-debug-log
